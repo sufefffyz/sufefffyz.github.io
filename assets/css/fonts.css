@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi6me5s7.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/q5uSsoa5M_tv7IihmnkabAReu49Y_Bo-HVKMBi5KfJs7.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZzm18OA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZ_G18OA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../fonts/q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZEGp8OA.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/KFOjCneDtsqEr0keqCMhbBc9.ttf) format('truetype');
+}

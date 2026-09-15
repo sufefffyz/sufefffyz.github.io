@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/yaoyao-liu/minimal-light",
+  "commit": "1ea07f39518ac44644406380c83da6f89037c4fc",
+  "upstream_sha256": {
+    "index.html": "8104a44cec4c1352f2ef38967320b4cee63b978731b7a4d82654047adaab2574",
+    "assets/css/style.css": "4a780ffbda353b59c03e0d36795e4aa37e405af8bafa65c016a4c34253fd5d04",
+    "assets/css/publications.css": "dbfdaff3ee254d63855c118d022fbde8a1fabc57e6e190d3ab46979e8552781c",
+    "assets/img/favicon.png": "3f7d2612454e7f4e47ed9b880a6598b1501ec7077c2d85fb363db83223fd3157",
+    "assets/img/favicon-dark.png": "bfcf437814ff545bb99930e805f992c3ec3c522f3f6453929c21583798d48283",
+    "assets/js/favicon-switcher.js": "b532add8b353e1aa568b88decdb45ce6a5fda8b61588c49261be902dfaefa53f",
+    "assets/js/scale.fix.js": "ea5945674af9bb92ef367ab00ad7a59b70c3ab14384c3b68fe33024987ece091"
+  },
+  "changes": "Personal content; user GitHub avatar; fonts hosted locally with original families and weights; no analytics."
+}
